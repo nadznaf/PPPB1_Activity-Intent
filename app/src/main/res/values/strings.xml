@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activity-Intent</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="homepage">Homepage</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="terms_condition">
+        By checking the box you agree to our <a href="#">Terms and Conditions. </a>
+    </string>
+</resources>
